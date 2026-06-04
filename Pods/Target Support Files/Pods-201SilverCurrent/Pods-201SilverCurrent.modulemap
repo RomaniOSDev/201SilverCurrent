@@ -1,0 +1,6 @@
+framework module Pods_201SilverCurrent {
+  umbrella header "Pods-201SilverCurrent-umbrella.h"
+
+  export *
+  module * { export * }
+}
